@@ -26,6 +26,6 @@ In conclusion, the login via smartcard or NFC chip is an innovative and practica
 
 # More information about TheFlex Industry Browser
 You can find more information about TheFlex Industry browser at the following links:
-- General information: https://theflexbrowser.com/
-- Quick setup: https://theflexbrowser.com/docs/start/fast_track
-- News and releases: https://theflexbrowser.com/blog
+- [General information](https://theflexbrowser.com/)
+- [Quick setup](https://theflexbrowser.com/docs/start/fast_track)
+- [News and releases](https://theflexbrowser.com/blog)
